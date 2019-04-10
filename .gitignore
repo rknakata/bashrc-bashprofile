@@ -5,6 +5,9 @@
 # But not these files...
 !.gitignore
 !.bash_profile
+!.bashrc
+!startupText
+
 # etc...
 
 # ...even if they are in subdirectories
