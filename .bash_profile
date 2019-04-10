@@ -1,0 +1,5 @@
+alias ll="ls -la" 
+alias pd="pwd"
+alias hy="history" 
+export USER="Goshiyujin sama"
+export PS1="金UWU金 "  
